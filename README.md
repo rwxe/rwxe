@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizdu&layout=compact)](https://github.com/yizdu/github-readme-stats)<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizdu&layout=compact&hide=css,html)](https://github.com/yizdu/github-readme-stats)
+<!--
 **yizdu/yizdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
