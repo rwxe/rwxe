@@ -1,11 +1,5 @@
 *I use github as a network disk, so my profile has no value to see.*
 
-*我把github当作网盘来用的， 因此我的主页没有浏览的价值。*
-
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizdu&layout=compact&hide=css,html)](https://github.com/yizdu/github-readme-stats)
 <!--
 **yizdu/yizdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
