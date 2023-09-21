@@ -1,4 +1,4 @@
-*I use github as a network disk, so my profile has no value to see.*
+*I use github as a network disk, so my profile has no value to view.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwxe&layout=compact&hide=css,html)](https://github.com/rwxe/github-readme-stats)
 <!--
